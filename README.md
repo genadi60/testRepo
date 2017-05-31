@@ -3,7 +3,7 @@
 
 Hello, friends!
 
-Today is nice a day!
+Today is a nice day!
 
 Nice to meet new friends.
 
