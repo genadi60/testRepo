@@ -1,3 +1,7 @@
 this is test 2
 text in test2 changed
+
 this make conflict(or not?!).
+
+this make conflict(may be?!).
+Conflict resolved!
