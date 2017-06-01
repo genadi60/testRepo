@@ -1,4 +1,12 @@
 this is test 1
 made some changes from GitHub!(this is wrong way!)
+<<<<<<< HEAD
 Created branch Develop.
 This changed in master.
+=======
+
+This changed in master.
+
+Created branch Develop.
+
+>>>>>>> 850295c4b50f16cc5d0bf9a73a89fe85eeb8362a
